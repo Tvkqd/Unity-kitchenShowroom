@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/KitchenSelector.unity
+    guid: af79e6b9ec689e04b96d5219bb00811e
+  - enabled: 1
+    path: Assets/UnityEDU/Scenes/KitchenTypeA.unity
+    guid: d47bcf1a6aade034e85b4ebc60ff7a10
+  - enabled: 1
+    path: Assets/UnityEDU/Scenes/KitchenTypeB.unity
+    guid: 7a8a3138e0c4b5f46ad217e74bbb832d
+  - enabled: 1
+    path: Assets/Scenes/MyKitchen2.unity
+    guid: 7cd5dc0a24a14774b885317bfaf13a04
+  - enabled: 1
+    path: Assets/UnityEDU/Scenes/KitchenSelection_Starter.unity
+    guid: ec45bbfb038b2fc45bc6e4a11d4a4d05
+  - enabled: 1
+    path: Assets/UnityEDU/Scenes/Starter_Scene.unity
+    guid: 7d5b4c5f236f640e7b14f602f9f8b950
+  - enabled: 1
+    path: Assets/Scenes/MyKitchen.unity
+    guid: 560001ffd3fea944fa3e3ee1dbccc30d
+  m_configObjects: {}
